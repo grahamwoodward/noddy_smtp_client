@@ -10,4 +10,4 @@ To compile:
   gcc noddy_smtp_client
 
 To run:
-  ./a.out <smtp server> <port>
+  ./a.out \<smtp server\> \<port\>
